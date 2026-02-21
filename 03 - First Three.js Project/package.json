@@ -1,0 +1,17 @@
+{
+  "name": "03---first-three.js-project",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.183.1",
+    "vite": "^7.3.1"
+  }
+}
